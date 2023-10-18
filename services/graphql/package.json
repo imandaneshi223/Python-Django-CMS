@@ -1,0 +1,23 @@
+{
+  "name": "service-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.1.5",
+    "apollo-server": "^2.1.0",
+    "await-to-js": "^2.0.1",
+    "graphql": "^14.0.2",
+    "jsonwebtoken": "^8.3.0",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}

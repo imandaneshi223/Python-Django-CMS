@@ -1,0 +1,145 @@
+version: "3"
+
+services:
+
+  nginx:
+    env_file:
+    - ./services/nginx/.env
+    - .env
+    build:
+      context: ./
+      dockerfile: ./services/nginx/Dockerfile
+      args:
+        environment: development
+        host: $HOST
+    ports:
+    - "80:80"
+    - "443:443"
+    - "4444:4444"
+    volumes:
+    - static:/var/www/static:ro
+    depends_on:
+    - graphql
+    - assembler
+    networks:
+    - front-tier
+    - back-tier
+
+  graphql:
+    build:
+      context: ./
+      dockerfile: ./services/graphql/Dockerfile
+      args:
+        environment: development
+        name: graphql
+    env_file:
+    - ./services/graphql/.env
+    - ./secret.env
+    - ./.env
+    expose:
+    - "4000"
+    volumes:
+    - ./services/graphql/src:/dist/src
+    depends_on:
+    - accounts
+    - components
+    networks:
+    - back-tier
+
+  accounts:
+    build:
+      context: ./
+      dockerfile: ./services/accounts/Dockerfile
+      args:
+        environment: development
+        name: accounts
+    expose:
+    - "8000"
+    volumes:
+    - ./services/accounts/apps:/dist/apps
+    - ./services/accounts/settings:/dist/settings
+    - ./services/accounts/tests:/dist/tests
+    - ./shared/django/:/dist/lib
+    - static:/dist/static
+    env_file:
+    - ./services/accounts/.env
+    - ./secret.env
+    - ./.env
+    depends_on:
+    - accounts-postgres
+    networks:
+    - back-tier
+
+  accounts-postgres:
+    restart: always
+    image: postgres:10
+    container_name: accounts-postgres
+    volumes:
+    - accounts-postgres:/var/lib/postgresql/data
+    networks:
+    - back-tier
+
+  components:
+    build:
+      context: ./
+      dockerfile: ./services/components/Dockerfile
+      args:
+        environment: development
+        name: components
+    expose:
+    - "8000"
+    volumes:
+    - ./services/components/apps:/dist/apps
+    - ./services/components/settings:/dist/settings
+    - ./services/components/tests:/dist/tests
+    - ./services/components/lib:/dist/lib
+    - static:/dist/static
+    env_file:
+    - ./services/components/.env
+    - ./secret.env
+    - ./.env
+    depends_on:
+    - components-postgres
+    networks:
+    - back-tier
+
+  components-postgres:
+    restart: always
+    image: postgres:10
+    container_name: components-postgres
+    volumes:
+    - components-postgres:/var/lib/postgresql/data
+    networks:
+    - back-tier
+
+  assembler:
+    build:
+      context: ./
+      dockerfile: ./services/assembler/Dockerfile
+      args:
+        environment: development
+        name: assembler
+    volumes:
+    - ./services/assembler/src:/dist/src
+    - static:/dist/static
+    env_file:
+    - ./services/assembler/.env
+    - ./secret.env
+    - ./.env
+    expose:
+    - "4443"
+    - "4444"
+    depends_on:
+    - graphql
+    networks:
+    - back-tier
+
+volumes:
+  static:
+  components-postgres:
+  accounts-postgres:
+
+networks:
+  front-tier:
+  back-tier:
+

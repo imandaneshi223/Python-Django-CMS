@@ -1,0 +1,2316 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Permission",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "register_converter",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
+        "documentation": {}
+    },
+    {
+        "label": "api_settings",
+        "importPath": "rest_framework_jwt.settings",
+        "description": "rest_framework_jwt.settings",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.settings",
+        "documentation": {}
+    },
+    {
+        "label": "api_settings",
+        "importPath": "rest_framework_jwt.settings",
+        "description": "rest_framework_jwt.settings",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.settings",
+        "documentation": {}
+    },
+    {
+        "label": "api_settings",
+        "importPath": "rest_framework_jwt.settings",
+        "description": "rest_framework_jwt.settings",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.settings",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "ugettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "ugettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationFailed",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionDenied",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFound",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationFailed",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "JSONWebTokenAuthentication",
+        "importPath": "rest_framework_jwt.authentication",
+        "description": "rest_framework_jwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "JSONWebTokenAuthentication",
+        "importPath": "rest_framework_jwt.authentication",
+        "description": "rest_framework_jwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_payload_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_decode_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_decode_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_encode_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_encode_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_decode_handler",
+        "importPath": "rest_framework_jwt.utils",
+        "description": "rest_framework_jwt.utils",
+        "isExtraImport": true,
+        "detail": "rest_framework_jwt.utils",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "rest_framework.request",
+        "description": "rest_framework.request",
+        "isExtraImport": true,
+        "detail": "rest_framework.request",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SerializerMethodField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmailField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UUIDField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UUIDField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Serializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UUIDField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CharField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ListField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SerializerMethodField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanField",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "include_docs_urls",
+        "importPath": "rest_framework.documentation",
+        "description": "rest_framework.documentation",
+        "isExtraImport": true,
+        "detail": "rest_framework.documentation",
+        "documentation": {}
+    },
+    {
+        "label": "include_docs_urls",
+        "importPath": "rest_framework.documentation",
+        "description": "rest_framework.documentation",
+        "isExtraImport": true,
+        "detail": "rest_framework.documentation",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "rest_framework.schemas",
+        "description": "rest_framework.schemas",
+        "isExtraImport": true,
+        "detail": "rest_framework.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "rest_framework.schemas",
+        "description": "rest_framework.schemas",
+        "isExtraImport": true,
+        "detail": "rest_framework.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "getLogger",
+        "importPath": "logging",
+        "description": "logging",
+        "isExtraImport": true,
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "create_service_jwt",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_service_permissions",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_service_jwt",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_service_permissions",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_service_jwt",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_service_permissions",
+        "importPath": "lib.authentication.utils",
+        "description": "lib.authentication.utils",
+        "isExtraImport": true,
+        "detail": "lib.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_AUTH",
+        "importPath": "lib.authentication.settings",
+        "description": "lib.authentication.settings",
+        "isExtraImport": true,
+        "detail": "lib.authentication.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "importPath": "lib.authentication.settings",
+        "description": "lib.authentication.settings",
+        "isExtraImport": true,
+        "detail": "lib.authentication.settings",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "timegm",
+        "importPath": "calendar",
+        "description": "calendar",
+        "isExtraImport": true,
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.migrations.0001_initial",
+        "description": "services.accounts.apps.accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('services', '0001_initial'),\n        ('auth', '0009_alter_user_last_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[",
+        "detail": "services.accounts.apps.accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "TokenConverterTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_token_converter",
+        "description": "services.accounts.apps.accounts.tests.test_token_converter",
+        "peekOfCode": "class TokenConverterTest(TestCase):\n    def test_if_regex_is_matching_valid_token(self):\n        pattern = re.compile(TokenConverter.regex)\n        self.assertTrue(pattern.match(\"a9dfbde116af89e8a4ec46ce4e7fe94381dcd899\"))\n        self.assertFalse(pattern.match(\"1b51e2fc-77bc-437d-9430-fb806e6cf0c0\"))",
+        "detail": "services.accounts.apps.accounts.tests.test_token_converter",
+        "documentation": {}
+    },
+    {
+        "label": "UserEndpointsForAnonymousUserTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_user_endpoints_for_anonymous_user",
+        "description": "services.accounts.apps.accounts.tests.test_user_endpoints_for_anonymous_user",
+        "peekOfCode": "class UserEndpointsForAnonymousUserTest(AccountsTestBase):\n    def get_tested_user(self):\n        return self.registered_user\n    def get_tested_user_password(self):\n        return self.registered_user_password\n    # create\n    def test_create_is_allowed_without_authentication(self):\n        self.assertEqual(status.HTTP_201_CREATED,\n                         self.client.post(reverse('users'),\n                                          format='json').status_code)",
+        "detail": "services.accounts.apps.accounts.tests.test_user_endpoints_for_anonymous_user",
+        "documentation": {}
+    },
+    {
+        "label": "UserEndpointsForAuthenticatedUserTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user",
+        "description": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user",
+        "peekOfCode": "class UserEndpointsForAuthenticatedUserTest(AccountsTestBase):\n    def get_tested_user(self):\n        return self.authenticated_user\n    def get_tested_user_password(self):\n        return None\n    # retrieve by uuid\n    def test_retrieve_by_uuid_user_can_retrieve_itself(self):\n        self.authenticate_tested_user()\n        self.assertEqual(status.HTTP_200_OK,\n                         self.client.get(reverse('user-single-by-uuid', args=(self.get_tested_user().id,)),",
+        "detail": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user",
+        "documentation": {}
+    },
+    {
+        "label": "UserEndpointsForAuthenticatedUserAuthenticatedByJwtTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user_jwt",
+        "description": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user_jwt",
+        "peekOfCode": "class UserEndpointsForAuthenticatedUserAuthenticatedByJwtTest(UserEndpointsForAuthenticatedUserTest):\n    def authenticate_tested_user(self):\n        self.authenticate_tested_user_with_jwt()\n    def login_and_authenticate_tested_user(self):\n        self.login_and_authenticate_tested_user_with_jwt()",
+        "detail": "services.accounts.apps.accounts.tests.test_user_endpoints_for_authenticated_user_jwt",
+        "documentation": {}
+    },
+    {
+        "label": "UserEndpointsForRegisteredUserTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user",
+        "description": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user",
+        "peekOfCode": "class UserEndpointsForRegisteredUserTest(AccountsTestBase):\n    def get_tested_user(self):\n        return self.registered_user\n    def get_tested_user_password(self):\n        return self.registered_user_password\n    # retrieve by uuid\n    def test_retrieve_by_uuid_user_can_retrieve_itself_if_logged_in(self):\n        self.login_and_authenticate_tested_user()\n        self.assertEqual(status.HTTP_200_OK,\n                         self.client.get(reverse('user-single-by-uuid', args=(self.get_tested_user().id,)),",
+        "detail": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user",
+        "documentation": {}
+    },
+    {
+        "label": "UserEndpointsForRegisteredUserAuthenticatedByJwtTest",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user_jwt",
+        "description": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user_jwt",
+        "peekOfCode": "class UserEndpointsForRegisteredUserAuthenticatedByJwtTest(UserEndpointsForRegisteredUserTest):\n    def authenticate_tested_user(self):\n        self.authenticate_tested_user_with_jwt()\n    def login_and_authenticate_tested_user(self):\n        self.login_and_authenticate_tested_user_with_jwt()\n    def test_retrieve_by_uuid_response_contains_jwt_with_service_permissions(self):\n        self.login_and_authenticate_tested_user()\n        service_permission = self.assign_and_return_service_permission_for_user(self.get_tested_user())\n        jwt_payload = self.decode_jwt(self.client.get(reverse('user-single-by-uuid', args=(self.get_tested_user().id,)),\n                                                      format='json').data['jwt_token'])",
+        "detail": "services.accounts.apps.accounts.tests.test_user_endpoints_for_registered_user_jwt",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsTestBase",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.tests.utility",
+        "description": "services.accounts.apps.accounts.tests.utility",
+        "peekOfCode": "class AccountsTestBase(APITestCase):\n    def get_tested_user(self):\n        return NotImplementedError()\n    def get_tested_user_password(self):\n        return NotImplementedError()\n    def get_tested_user_identity_token_key(self):\n        return IdentityToken.objects.get(user=self.get_tested_user()).key\n    def get_tested_user_elevated_token_key(self):\n        return ElevatedToken.objects.get(user=self.get_tested_user()).key\n    def authenticate_tested_user(self):",
+        "detail": "services.accounts.apps.accounts.tests.utility",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsUserAdmin",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.admin",
+        "description": "services.accounts.apps.accounts.admin",
+        "peekOfCode": "class AccountsUserAdmin(UserAdmin):\n    fieldsets = (\n        (None, {'fields': ('username', 'password')}),\n        (_('Personal info'), {'fields': ('first_name', 'last_name', 'email')}),\n        (_('Permissions'), {'fields': (\n            'is_active', 'is_registered', 'is_staff', 'is_superuser', 'accepted_privacy_policy',\n            'accepted_terms_of_service', 'groups', 'user_permissions', 'service_permissions'\n        )}),\n        (_('Important dates'), {'fields': ('last_login', 'date_joined')}),\n    )",
+        "detail": "services.accounts.apps.accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "IdentityTokenAdmin",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.admin",
+        "description": "services.accounts.apps.accounts.admin",
+        "peekOfCode": "class IdentityTokenAdmin(admin.ModelAdmin):\n    list_display = ('key', 'user', 'created')\n    fields = ('user',)\n    ordering = ('-created',)\nclass ElevatedTokenAdmin(admin.ModelAdmin):\n    list_display = ('key', 'user', 'created')\n    fields = ('user',)\n    ordering = ('-created',)\nadmin.site.register(ElevatedToken, ElevatedTokenAdmin)\nadmin.site.register(IdentityToken, IdentityTokenAdmin)",
+        "detail": "services.accounts.apps.accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ElevatedTokenAdmin",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.admin",
+        "description": "services.accounts.apps.accounts.admin",
+        "peekOfCode": "class ElevatedTokenAdmin(admin.ModelAdmin):\n    list_display = ('key', 'user', 'created')\n    fields = ('user',)\n    ordering = ('-created',)\nadmin.site.register(ElevatedToken, ElevatedTokenAdmin)\nadmin.site.register(IdentityToken, IdentityTokenAdmin)\nadmin.site.register(Permission)\nadmin.site.register(User, AccountsUserAdmin)",
+        "detail": "services.accounts.apps.accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authentication",
+        "description": "services.accounts.apps.accounts.authentication",
+        "peekOfCode": "class JWTAuthentication(JSONWebTokenAuthentication):\n    def authenticate(self, request):\n        jwt_value = self.get_jwt_value(request)\n        if jwt_value is None:\n            return None\n        try:\n            payload = jwt_decode_handler(jwt_value)\n        except jwt.ExpiredSignature:\n            raise AuthenticationFailed('Signature has expired.')\n        except jwt.DecodeError:",
+        "detail": "services.accounts.apps.accounts.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "ElevatedTokenAuthentication",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authentication",
+        "description": "services.accounts.apps.accounts.authentication",
+        "peekOfCode": "class ElevatedTokenAuthentication(TokenAuthentication):\n    def get_model(self):\n        return ElevatedToken\n    def authenticate_credentials(self, key):\n        model = self.get_model()\n        try:\n            token = model.objects.select_related('user').get(key=key)\n        except model.DoesNotExist:\n            return None\n        if not token.user.is_active:",
+        "detail": "services.accounts.apps.accounts.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "IdentityTokenAuthentication",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authentication",
+        "description": "services.accounts.apps.accounts.authentication",
+        "peekOfCode": "class IdentityTokenAuthentication(TokenAuthentication):\n    def get_model(self):\n        return IdentityToken",
+        "detail": "services.accounts.apps.accounts.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "user_jwt_payload_handler",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authentication",
+        "description": "services.accounts.apps.accounts.authentication",
+        "peekOfCode": "def user_jwt_payload_handler(user, elevated_token=None):\n    payload = jwt_payload_handler(user)\n    payload.pop('username')\n    payload.pop('email')\n    try:\n        payload['identity_token'] = IdentityToken.objects.get(user=user).key\n    except IdentityToken.DoesNotExist:\n        raise AuthenticationFailed('Identity token does not exist!')\n    payload['elevated_token'] = elevated_token\n    payload['user_permissions'] = get_user_permissions_string_list(user)",
+        "detail": "services.accounts.apps.accounts.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "class IsAuthenticated(BasePermission):\n    def has_permission(self, request, view):\n        return is_authenticated(request)\nclass IsOwner(BasePermission):\n    def has_permission(self, request, view):\n        return is_authenticated(request)\n    def has_object_permission(self, request, view, obj):\n        if isinstance(obj, User) and obj == request.user:\n            return True\n        return False",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwner",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "class IsOwner(BasePermission):\n    def has_permission(self, request, view):\n        return is_authenticated(request)\n    def has_object_permission(self, request, view, obj):\n        if isinstance(obj, User) and obj == request.user:\n            return True\n        return False\nclass IsLoggedInOwner(IsOwner):\n    def has_permission(self, request, view):\n        if is_loggedin(request):",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "IsLoggedInOwner",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "class IsLoggedInOwner(IsOwner):\n    def has_permission(self, request, view):\n        if is_loggedin(request):\n            return True\n        if is_registered(request):\n            return False\n        return is_authenticated(request)",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_permissions_string_list",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "def get_user_permissions_string_list(user):\n    def get_unique_permissions_list(permissions_set):\n        return list(set(['{}.{}.{}'.format(slugify(perm.content_type.app_label).replace('-', '_'),\n                                           slugify(perm.content_type).replace('-', '_'),\n                                           slugify(perm.codename).replace('-', '_')) for perm in permissions_set]))\n    return get_unique_permissions_list(\n        user.user_permissions.all() | Permission.objects.filter(group__user=user))\ndef get_user_service_permissions_string_list(user):\n    return [str(perm) for perm in user.service_permissions.all()]\ndef is_authenticated(request=None):",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_service_permissions_string_list",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "def get_user_service_permissions_string_list(user):\n    return [str(perm) for perm in user.service_permissions.all()]\ndef is_authenticated(request=None):\n    if request is None or not isinstance(request, Request) or not isinstance(request.user, User):\n        return False\n    if isinstance(request.auth, IdentityToken):\n        try:\n            return request.auth == IdentityToken.objects.get(user=request.user)\n        except IdentityToken.DoesNotExist:\n            return False",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "is_authenticated",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "def is_authenticated(request=None):\n    if request is None or not isinstance(request, Request) or not isinstance(request.user, User):\n        return False\n    if isinstance(request.auth, IdentityToken):\n        try:\n            return request.auth == IdentityToken.objects.get(user=request.user)\n        except IdentityToken.DoesNotExist:\n            return False\n    if isinstance(request.auth, ElevatedToken):\n        try:",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "is_registered",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "def is_registered(request=None):\n    return is_authenticated(request) and request.user.is_registered\ndef is_loggedin(request=None):\n    if not is_registered(request):\n        return False\n    if isinstance(request.auth, ElevatedToken):\n        return True\n    if not isinstance(request.auth, dict) or 'elevated_token' not in request.auth or not request.auth['elevated_token']:\n        return False\n    try:",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "is_loggedin",
+        "kind": 2,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "def is_loggedin(request=None):\n    if not is_registered(request):\n        return False\n    if isinstance(request.auth, ElevatedToken):\n        return True\n    if not isinstance(request.auth, dict) or 'elevated_token' not in request.auth or not request.auth['elevated_token']:\n        return False\n    try:\n        ElevatedToken.objects.get(key=request.auth['elevated_token'])\n        return True",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_decode_handler",
+        "kind": 5,
+        "importPath": "services.accounts.apps.accounts.authorization",
+        "description": "services.accounts.apps.accounts.authorization",
+        "peekOfCode": "jwt_decode_handler = api_settings.JWT_DECODE_HANDLER\ndef get_user_permissions_string_list(user):\n    def get_unique_permissions_list(permissions_set):\n        return list(set(['{}.{}.{}'.format(slugify(perm.content_type.app_label).replace('-', '_'),\n                                           slugify(perm.content_type).replace('-', '_'),\n                                           slugify(perm.codename).replace('-', '_')) for perm in permissions_set]))\n    return get_unique_permissions_list(\n        user.user_permissions.all() | Permission.objects.filter(group__user=user))\ndef get_user_service_permissions_string_list(user):\n    return [str(perm) for perm in user.service_permissions.all()]",
+        "detail": "services.accounts.apps.accounts.authorization",
+        "documentation": {}
+    },
+    {
+        "label": "IdentityToken",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.models",
+        "description": "services.accounts.apps.accounts.models",
+        "peekOfCode": "class IdentityToken(models.Model):\n    key = models.CharField(_(\"Key\"), max_length=40, primary_key=True)\n    user = models.OneToOneField(\n        settings.AUTH_USER_MODEL, related_name='identity_token',\n        on_delete=models.CASCADE, verbose_name=_(\"User\")\n    )\n    created = models.DateTimeField(_(\"Created\"), auto_now_add=True)\n    class Meta:\n        verbose_name = _(\"Identity Token\")\n        verbose_name_plural = _(\"Identity Tokens\")",
+        "detail": "services.accounts.apps.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "ElevatedToken",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.models",
+        "description": "services.accounts.apps.accounts.models",
+        "peekOfCode": "class ElevatedToken(models.Model):\n    key = models.CharField(_(\"Key\"), max_length=40, primary_key=True)\n    user = models.OneToOneField(\n        settings.AUTH_USER_MODEL, related_name='elevated_token',\n        on_delete=models.CASCADE, verbose_name=_(\"User\")\n    )\n    created = models.DateTimeField(_(\"Created\"), auto_now_add=True)\n    class Meta:\n        verbose_name = _(\"Elevated Token\")\n        verbose_name_plural = _(\"Elevated Tokens\")",
+        "detail": "services.accounts.apps.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.models",
+        "description": "services.accounts.apps.accounts.models",
+        "peekOfCode": "class User(AbstractUser):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)\n    accepted_privacy_policy = models.BooleanField(default=False,\n                                                  help_text='User accepted privacy policy')\n    accepted_terms_of_service = models.BooleanField(default=False,\n                                                    help_text='User accepted terms of service')\n    is_registered = models.BooleanField(default=False,\n                                        help_text='User was registered')\n    date_registered = models.DateTimeField(default=None, null=True, editable=False)\n    date_login = models.DateTimeField(default=None, null=True, editable=False)",
+        "detail": "services.accounts.apps.accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class UserSerializer(ModelSerializer):\n    identity_token = SerializerMethodField(read_only=True)\n    elevated_token = SerializerMethodField(read_only=True)\n    jwt_token = SerializerMethodField(read_only=True)\n    user_permissions = SerializerMethodField(read_only=True)\n    service_permissions = SerializerMethodField(read_only=True)\n    accepted_terms_of_service = BooleanField()\n    accepted_privacy_policy = BooleanField()\n    is_registered = BooleanField()\n    email = EmailField(allow_blank=True)",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticatedUserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class AuthenticatedUserSerializer(UserSerializer):\n    class Meta:\n        model = User\n        fields = (\n            'identity_token', 'elevated_token', 'jwt_token', 'email', 'is_registered', 'accepted_privacy_policy',\n            'accepted_terms_of_service')\n        read_only_fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered')\nclass AuthorizedUserSerializer(UserSerializer):\n    class Meta:\n        model = User",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AuthorizedUserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class AuthorizedUserSerializer(UserSerializer):\n    class Meta:\n        model = User\n        fields = (\n            'id', 'username', 'email', 'first_name', 'last_name', 'identity_token', 'elevated_token', 'jwt_token',\n            'user_permissions', 'service_permissions', 'is_registered', 'accepted_privacy_policy',\n            'accepted_terms_of_service')\n        read_only_fields = (\n            'id', 'username', 'identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'username',\n            'first_name', 'last_name', 'user_permissions', 'service_permissions')",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class CreateUserSerializer(UserSerializer):\n    def get_identity_token(self, instance):\n        identity_token, created = IdentityToken.objects.get_or_create(user=instance)\n        return identity_token.key\n    class Meta:\n        model = User\n        fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'accepted_privacy_policy',\n                  'accepted_terms_of_service')\n        read_only_fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'accepted_privacy_policy',\n                            'accepted_terms_of_service')",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CollectEmailSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class CollectEmailSerializer(UserSerializer):\n    class Meta:\n        model = User\n        fields = ('email', 'identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'accepted_privacy_policy',\n                  'accepted_terms_of_service')\n        read_only_fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'accepted_privacy_policy',\n                            'accepted_terms_of_service')\n        extra_kwargs = {\n            'email': {'write_only': True}\n        }",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AcceptPrivacyPolicySerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class AcceptPrivacyPolicySerializer(UserSerializer):\n    class Meta:\n        model = User\n        fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered', 'accepted_privacy_policy',\n                  'accepted_terms_of_service')\n        read_only_fields = ('identity_token', 'elevated_token', 'jwt_token', 'is_registered',\n                            'accepted_terms_of_service')\nclass LoginUserSerializer(UserSerializer):\n    def get_elevated_token(self, instance):\n        elevated_token, created = ElevatedToken.objects.get_or_create(user=instance)",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginUserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class LoginUserSerializer(UserSerializer):\n    def get_elevated_token(self, instance):\n        elevated_token, created = ElevatedToken.objects.get_or_create(user=instance)\n        return elevated_token.key\n    def update(self, instance, validated_data):\n        instance = super().update(instance, validated_data)\n        instance.date_login = timezone.now()\n        instance.save()\n        return instance\n    class Meta:",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserSerializer",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.serializers",
+        "description": "services.accounts.apps.accounts.serializers",
+        "peekOfCode": "class RegisterUserSerializer(UserSerializer):\n    def update(self, instance, validated_data):\n        instance = super().update(instance, validated_data)\n        instance.set_password(validated_data.get('password'))\n        instance.is_registered = True\n        instance.date_registered = timezone.now()\n        instance.save()\n        return instance\n    class Meta:\n        model = User",
+        "detail": "services.accounts.apps.accounts.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TokenConverter",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.urls",
+        "description": "services.accounts.apps.accounts.urls",
+        "peekOfCode": "class TokenConverter:\n    regex = '[a-zA-Z0-9]{40}'\n    @staticmethod\n    def to_python(value):\n        return str(value)\n    @staticmethod\n    def to_url(value):\n        return str(value)\nregister_converter(TokenConverter, 'token')\nurlpatterns = [",
+        "detail": "services.accounts.apps.accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "services.accounts.apps.accounts.urls",
+        "description": "services.accounts.apps.accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('user/', UserView.as_view({'post': 'create'}), name='users'),\n    path('user/<uuid:pk>/',\n         UserView.as_view({'get': 'retrieve', 'patch': 'update', 'delete': 'destroy'}),\n         name='user-single-by-uuid'),\n    path('user/<token:token>/',\n         UserByTokenView.as_view({'get': 'retrieve', 'patch': 'update', 'delete': 'destroy'}),\n         name='user-single-by-token')\n]",
+        "detail": "services.accounts.apps.accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserView",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.views",
+        "description": "services.accounts.apps.accounts.views",
+        "peekOfCode": "class UserView(ModelViewSet):\n    queryset = User.objects.all()\n    def get_serializer(self, *args, **kwargs):\n        kwargs['context'] = self.get_serializer_context()\n        if 'serializer_class' in kwargs:\n            serializer_class = kwargs.pop('serializer_class')\n        else:\n            serializer_class = AuthorizedUserSerializer if is_loggedin(self.request) else AuthenticatedUserSerializer\n        return serializer_class(*args, **kwargs)\n    def get_permissions(self):",
+        "detail": "services.accounts.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserByTokenView",
+        "kind": 6,
+        "importPath": "services.accounts.apps.accounts.views",
+        "description": "services.accounts.apps.accounts.views",
+        "peekOfCode": "class UserByTokenView(UserView):\n    lookup_field = None\n    lookup_url_kwarg = 'token'\n    def get_object(self):\n        queryset = self.filter_queryset(self.get_queryset())\n        lookup_url_kwarg = self.lookup_url_kwarg or self.lookup_field\n        assert lookup_url_kwarg in self.kwargs, (\n                'Expected view %s to be called with a URL keyword argument '\n                'named \"%s\". Fix your URL conf, or set the `.lookup_field` '\n                'attribute on the view correctly.' %",
+        "detail": "services.accounts.apps.accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "services.accounts.apps.services.migrations.0001_initial",
+        "description": "services.accounts.apps.services.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Service',\n            fields=[\n                ('name', models.SlugField(max_length=40, primary_key=True, serialize=False, verbose_name='Name')),\n            ],",
+        "detail": "services.accounts.apps.services.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAdmin",
+        "kind": 6,
+        "importPath": "services.accounts.apps.services.admin",
+        "description": "services.accounts.apps.services.admin",
+        "peekOfCode": "class ServiceAdmin(admin.ModelAdmin):\n    def get_readonly_fields(self, request, obj=None):\n        if obj:\n            return self.readonly_fields + tuple([item.name for item in obj._meta.fields])\n        return self.readonly_fields\nclass ServicePermissionAdmin(admin.ModelAdmin):\n    def get_readonly_fields(self, request, obj=None):\n        if obj:\n            return self.readonly_fields + tuple([item.name for item in obj._meta.fields])\n        return self.readonly_fields",
+        "detail": "services.accounts.apps.services.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ServicePermissionAdmin",
+        "kind": 6,
+        "importPath": "services.accounts.apps.services.admin",
+        "description": "services.accounts.apps.services.admin",
+        "peekOfCode": "class ServicePermissionAdmin(admin.ModelAdmin):\n    def get_readonly_fields(self, request, obj=None):\n        if obj:\n            return self.readonly_fields + tuple([item.name for item in obj._meta.fields])\n        return self.readonly_fields\nadmin.site.register(Service, ServiceAdmin)\nadmin.site.register(ServicePermission, ServicePermissionAdmin)",
+        "detail": "services.accounts.apps.services.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "services.accounts.apps.services.models",
+        "description": "services.accounts.apps.services.models",
+        "peekOfCode": "class Service(models.Model):\n    name = models.SlugField(_(\"Name\"), max_length=40, primary_key=True)\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name = _(\"Service\")\n        verbose_name_plural = _(\"Services\")\nclass ServicePermission(models.Model):\n    name = models.SlugField(_(\"Name\"), max_length=40, primary_key=True)\n    service = models.ForeignKey(",
+        "detail": "services.accounts.apps.services.models",
+        "documentation": {}
+    },
+    {
+        "label": "ServicePermission",
+        "kind": 6,
+        "importPath": "services.accounts.apps.services.models",
+        "description": "services.accounts.apps.services.models",
+        "peekOfCode": "class ServicePermission(models.Model):\n    name = models.SlugField(_(\"Name\"), max_length=40, primary_key=True)\n    service = models.ForeignKey(\n        Service, related_name='service_permission',\n        on_delete=models.CASCADE, verbose_name=_(\"Service\")\n    )\n    def __str__(self):\n        return '{}.{}'.format(self.service.name, self.name)\n    class Meta:\n        verbose_name = _(\"Service permission\")",
+        "detail": "services.accounts.apps.services.models",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))\nSECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "SECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "DEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout\n        },",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "LOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout\n        },\n    },",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'apps.accounts',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'apps.accounts',\n    'apps.services',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'settings.urls'",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "ROOT_URLCONF = 'settings.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "WSGI_APPLICATION = 'settings.wsgi.application'\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': os.environ['ACCOUNTS_DB_NAME'],\n        'USER': os.environ['ACCOUNTS_DB_USER'],\n        'PASSWORD': os.environ['ACCOUNTS_DB_PASS'],\n        'HOST': os.environ['ACCOUNTS_DB_SERVICE'],\n        'PORT': os.environ['ACCOUNTS_DB_PORT']\n    }",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': os.environ['ACCOUNTS_DB_NAME'],\n        'USER': os.environ['ACCOUNTS_DB_USER'],\n        'PASSWORD': os.environ['ACCOUNTS_DB_PASS'],\n        'HOST': os.environ['ACCOUNTS_DB_SERVICE'],\n        'PORT': os.environ['ACCOUNTS_DB_PORT']\n    }\n}",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_AUTH",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "JWT_AUTH = {\n    'JWT_AUTH_HEADER_PREFIX': 'Bearer',\n    'JWT_PAYLOAD_HANDLER': 'apps.accounts.authentication.user_jwt_payload_handler'\n}\nREST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'\n    ],\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'apps.accounts.authentication.JWTAuthentication',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'\n    ],\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'apps.accounts.authentication.JWTAuthentication',\n        'apps.accounts.authentication.ElevatedTokenAuthentication',\n        'apps.accounts.authentication.IdentityTokenAuthentication',\n    )\n}",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "AUTH_USER_MODEL = 'accounts.User'\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n]\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTHENTICATION_BACKENDS",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "AUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n]\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "services.accounts.settings.environment.base",
+        "description": "services.accounts.settings.environment.base",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.accounts.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "services.accounts.settings.urls",
+        "description": "services.accounts.settings.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include('apps.accounts.urls')),\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path('docs/', include_docs_urls(title='Accounts API')),\n    path('schema/', get_schema_view(title='Accounts API'))\n]",
+        "detail": "services.accounts.settings.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "services.accounts.settings.wsgi",
+        "description": "services.accounts.settings.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "services.accounts.settings.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "services.components.apps.components.migrations.0001_initial",
+        "description": "services.components.apps.components.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ComponentInstance',\n            fields=[\n                ('id', models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False, unique=True)),\n                ('name', models.CharField(blank=True, max_length=120, null=True)),",
+        "detail": "services.components.apps.components.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentTest",
+        "kind": 6,
+        "importPath": "services.components.apps.components.tests.test_component_endpoints",
+        "description": "services.components.apps.components.tests.test_component_endpoints",
+        "peekOfCode": "class ComponentTest(APITestCase):\n    def authenticate_by_jwt(self):\n        self.client.credentials(HTTP_AUTHORIZATION='Bearer ' + create_service_jwt())\n    def setUp(self):\n        assert 'components:ComponentInstance:GET' in get_current_service_permissions()\n        self.authenticate_by_jwt()\n        self.type = ComponentType.objects.create(name='Body')\n        self.instance = ComponentInstance.objects.create(type=self.type, name='Base site body')\n    def test_retrieve_is_not_smoking(self):\n        self.assertEqual(status.HTTP_200_OK, self.client.get(reverse('component-single', args=(self.instance.id,)),",
+        "detail": "services.components.apps.components.tests.test_component_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentTypeTest",
+        "kind": 6,
+        "importPath": "services.components.apps.components.tests.test_component_types_endpoints",
+        "description": "services.components.apps.components.tests.test_component_types_endpoints",
+        "peekOfCode": "class ComponentTypeTest(APITestCase):\n    def authenticate_by_jwt(self):\n        self.client.credentials(HTTP_AUTHORIZATION='Bearer ' + create_service_jwt())\n    def setUp(self):\n        assert 'components:ComponentType:GET' in get_current_service_permissions()\n        self.authenticate_by_jwt()\n        self.type = ComponentType.objects.create(name='Body')\n        self.instance = ComponentInstance.objects.create(type=self.type, name='Base site body')\n    def test_retrieve_is_not_smoking(self):\n        self.assertEqual(status.HTTP_200_OK, self.client.get(reverse('component-type-single', args=(self.type.id,)),",
+        "detail": "services.components.apps.components.tests.test_component_types_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentTypeAdmin",
+        "kind": 6,
+        "importPath": "services.components.apps.components.admin",
+        "description": "services.components.apps.components.admin",
+        "peekOfCode": "class ComponentTypeAdmin(admin.ModelAdmin):\n    pass\nclass ComponentInstanceAdmin(admin.ModelAdmin):\n    pass\nadmin.site.register(ComponentType, ComponentTypeAdmin)\nadmin.site.register(ComponentInstance, ComponentInstanceAdmin)",
+        "detail": "services.components.apps.components.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentInstanceAdmin",
+        "kind": 6,
+        "importPath": "services.components.apps.components.admin",
+        "description": "services.components.apps.components.admin",
+        "peekOfCode": "class ComponentInstanceAdmin(admin.ModelAdmin):\n    pass\nadmin.site.register(ComponentType, ComponentTypeAdmin)\nadmin.site.register(ComponentInstance, ComponentInstanceAdmin)",
+        "detail": "services.components.apps.components.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractComponentType",
+        "kind": 6,
+        "importPath": "services.components.apps.components.models",
+        "description": "services.components.apps.components.models",
+        "peekOfCode": "class AbstractComponentType(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    name = models.CharField(max_length=120, unique=True, blank=False, null=False)\n    class Meta:\n        abstract = True\nclass ComponentType(AbstractComponentType):\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name = 'Component type'",
+        "detail": "services.components.apps.components.models",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentType",
+        "kind": 6,
+        "importPath": "services.components.apps.components.models",
+        "description": "services.components.apps.components.models",
+        "peekOfCode": "class ComponentType(AbstractComponentType):\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name = 'Component type'\n        verbose_name_plural = 'Component type'\nclass AbstractComponentInstance(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    type = models.ForeignKey(ComponentType, on_delete=models.CASCADE)\n    class Meta:",
+        "detail": "services.components.apps.components.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractComponentInstance",
+        "kind": 6,
+        "importPath": "services.components.apps.components.models",
+        "description": "services.components.apps.components.models",
+        "peekOfCode": "class AbstractComponentInstance(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    type = models.ForeignKey(ComponentType, on_delete=models.CASCADE)\n    class Meta:\n        abstract = True\nclass ComponentInstance(AbstractComponentInstance):\n    name = models.CharField(max_length=120, blank=True, null=True)\n    def __str__(self):\n        if self.name:\n            return '{}:{}'.format(self.type.name, self.name)",
+        "detail": "services.components.apps.components.models",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentInstance",
+        "kind": 6,
+        "importPath": "services.components.apps.components.models",
+        "description": "services.components.apps.components.models",
+        "peekOfCode": "class ComponentInstance(AbstractComponentInstance):\n    name = models.CharField(max_length=120, blank=True, null=True)\n    def __str__(self):\n        if self.name:\n            return '{}:{}'.format(self.type.name, self.name)\n        return self.name or '{}:{}'.format(self.type.name, self.id)\n    class Meta:\n        verbose_name = 'Component instance'\n        verbose_name_plural = 'Component instances'",
+        "detail": "services.components.apps.components.models",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentInstanceSerializer",
+        "kind": 6,
+        "importPath": "services.components.apps.components.serializers",
+        "description": "services.components.apps.components.serializers",
+        "peekOfCode": "class ComponentInstanceSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = ComponentInstance\n        fields = ('id', 'children', 'type', 'name')\nclass ComponentTypeSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = ComponentType\n        fields = ('id', 'name')",
+        "detail": "services.components.apps.components.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentTypeSerializer",
+        "kind": 6,
+        "importPath": "services.components.apps.components.serializers",
+        "description": "services.components.apps.components.serializers",
+        "peekOfCode": "class ComponentTypeSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = ComponentType\n        fields = ('id', 'name')",
+        "detail": "services.components.apps.components.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "services.components.apps.components.urls",
+        "description": "services.components.apps.components.urls",
+        "peekOfCode": "urlpatterns = [\n    path('component_type/', TypeView.as_view({'get': 'list'}), name='component-type-list'),\n    path('component_type/<uuid:pk>/', TypeView.as_view({'get': 'retrieve'}), name='component-type-single'),\n    path('component/', ComponentView.as_view({'get': 'list'}), name='component-list'),\n    path('component/<uuid:pk>/', ComponentView.as_view({'get': 'retrieve'}), name='component-single')\n]",
+        "detail": "services.components.apps.components.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TypeView",
+        "kind": 6,
+        "importPath": "services.components.apps.components.views",
+        "description": "services.components.apps.components.views",
+        "peekOfCode": "class TypeView(ModelViewSet):\n    serializer_class = ComponentTypeSerializer\n    queryset = ComponentType.objects.all()\nclass ComponentView(ModelViewSet):\n    serializer_class = ComponentInstanceSerializer\n    queryset = ComponentInstance.objects.all()",
+        "detail": "services.components.apps.components.views",
+        "documentation": {}
+    },
+    {
+        "label": "ComponentView",
+        "kind": 6,
+        "importPath": "services.components.apps.components.views",
+        "description": "services.components.apps.components.views",
+        "peekOfCode": "class ComponentView(ModelViewSet):\n    serializer_class = ComponentInstanceSerializer\n    queryset = ComponentInstance.objects.all()",
+        "detail": "services.components.apps.components.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.migrations.0001_initial",
+        "description": "services.components.apps.routes.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('components', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Route',\n            fields=[\n                ('id', models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False, unique=True)),",
+        "detail": "services.components.apps.routes.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "RouteTest",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.tests.test_route_endpoints",
+        "description": "services.components.apps.routes.tests.test_route_endpoints",
+        "peekOfCode": "class RouteTest(APITestCase):\n    def authenticate_by_jwt(self):\n        self.client.credentials(HTTP_AUTHORIZATION='Bearer ' + create_service_jwt())\n    def setUp(self):\n        assert 'components:Route:GET' in get_current_service_permissions()\n        self.authenticate_by_jwt()\n        self.type = ComponentType.objects.create(react_name='Body', name='Body')\n        self.component = ComponentInstance.objects.create(type=self.type, name='Base site body')\n        self.site_with_routes_domain = 'subdomain.domain.tld'\n        self.site = Site.objects.create(domain=self.site_with_routes_domain)",
+        "detail": "services.components.apps.routes.tests.test_route_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "SiteAdmin",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.admin",
+        "description": "services.components.apps.routes.admin",
+        "peekOfCode": "class SiteAdmin(admin.ModelAdmin):\n    pass\nclass RouteAdmin(admin.ModelAdmin):\n    pass\nadmin.site.register(Site, SiteAdmin)\nadmin.site.register(Route, RouteAdmin)",
+        "detail": "services.components.apps.routes.admin",
+        "documentation": {}
+    },
+    {
+        "label": "RouteAdmin",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.admin",
+        "description": "services.components.apps.routes.admin",
+        "peekOfCode": "class RouteAdmin(admin.ModelAdmin):\n    pass\nadmin.site.register(Site, SiteAdmin)\nadmin.site.register(Route, RouteAdmin)",
+        "detail": "services.components.apps.routes.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Site",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.models",
+        "description": "services.components.apps.routes.models",
+        "peekOfCode": "class Site(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    domain = models.CharField(max_length=120, unique=True)\n    def __str__(self):\n        return self.domain\nclass Route(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    site = models.ForeignKey(Site, on_delete=models.CASCADE)\n    route = models.CharField(max_length=120)\n    component = models.ForeignKey(ComponentInstance, on_delete=models.CASCADE)",
+        "detail": "services.components.apps.routes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Route",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.models",
+        "description": "services.components.apps.routes.models",
+        "peekOfCode": "class Route(models.Model):\n    id = models.UUIDField(primary_key=True, unique=True, default=uuid.uuid4, editable=False)\n    site = models.ForeignKey(Site, on_delete=models.CASCADE)\n    route = models.CharField(max_length=120)\n    component = models.ForeignKey(ComponentInstance, on_delete=models.CASCADE)\n    def __str__(self):\n        return '{} - {}'.format(self.site.domain, self.route)\n    class Meta:\n        unique_together = (('site', 'route'),)",
+        "detail": "services.components.apps.routes.models",
+        "documentation": {}
+    },
+    {
+        "label": "SiteSerializer",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.serializers",
+        "description": "services.components.apps.routes.serializers",
+        "peekOfCode": "class SiteSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = Site\n        fields = ('id', 'domain')\nclass RouteSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = Route\n        fields = ('id', 'route', 'site', 'component')",
+        "detail": "services.components.apps.routes.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RouteSerializer",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.serializers",
+        "description": "services.components.apps.routes.serializers",
+        "peekOfCode": "class RouteSerializer(ModelSerializer):\n    id = UUIDField(read_only=True)\n    class Meta:\n        model = Route\n        fields = ('id', 'route', 'site', 'component')",
+        "detail": "services.components.apps.routes.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "services.components.apps.routes.urls",
+        "description": "services.components.apps.routes.urls",
+        "peekOfCode": "urlpatterns = [\n    path('site/', SiteView.as_view({'get': 'list'}), name='site-list'),\n    path('site/<uuid:pk>/', SiteView.as_view({'get': 'retrieve'}), name='site-single'),\n    path('route/', RouteView.as_view({'get': 'list'}), name='route-list'),\n    path('route/<uuid:pk>/', RouteView.as_view({'get': 'retrieve'}), name='route-uuid-single'),\n    path('route/<str:domain>/', RouteView.as_view({'get': 'retrieve'}), name='route-path-homepage'),\n    path('route/<str:domain>/<path:path>/', RouteView.as_view({'get': 'retrieve'}), name='route-path-single'),\n]",
+        "detail": "services.components.apps.routes.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SiteView",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.views",
+        "description": "services.components.apps.routes.views",
+        "peekOfCode": "class SiteView(ModelViewSet):\n    serializer_class = SiteSerializer\n    queryset = Site.objects.all()\nclass RouteView(ModelViewSet):\n    serializer_class = RouteSerializer\n    queryset = Route.objects.all()\n    def retrieve(self, request, *args, **kwargs):\n        if 'pk' in kwargs:\n            return Response(self.get_serializer(self.get_object()).data)\n        try:",
+        "detail": "services.components.apps.routes.views",
+        "documentation": {}
+    },
+    {
+        "label": "RouteView",
+        "kind": 6,
+        "importPath": "services.components.apps.routes.views",
+        "description": "services.components.apps.routes.views",
+        "peekOfCode": "class RouteView(ModelViewSet):\n    serializer_class = RouteSerializer\n    queryset = Route.objects.all()\n    def retrieve(self, request, *args, **kwargs):\n        if 'pk' in kwargs:\n            return Response(self.get_serializer(self.get_object()).data)\n        try:\n            site = Site.objects.get(domain=kwargs['domain'])\n        except Site.DoesNotExist:\n            raise NotFound(detail='Unknown domain.')",
+        "detail": "services.components.apps.routes.views",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_AUTH",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "JWT_AUTH = JWT_AUTH\nREST_FRAMEWORK = REST_FRAMEWORK\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))\nSECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "REST_FRAMEWORK = REST_FRAMEWORK\nBASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))\nSECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))\nSECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "SECRET_KEY = os.environ['SECRET_KEY']\nDEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "DEBUG = os.getenv('DEBUG', 'false')\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout\n        },",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "LOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'handlers': {\n        'console': {\n            'level': os.environ['LOG_LEVEL'],\n            'class': 'logging.StreamHandler',\n            'stream': sys.stdout\n        },\n    },",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'apps.components',",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'apps.components',\n    'apps.routes',",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'settings.urls'",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "ROOT_URLCONF = 'settings.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "WSGI_APPLICATION = 'settings.wsgi.application'\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': os.environ['COMPONENTS_DB_NAME'],\n        'USER': os.environ['COMPONENTS_DB_USER'],\n        'PASSWORD': os.environ['COMPONENTS_DB_PASS'],\n        'HOST': os.environ['COMPONENTS_DB_SERVICE'],\n        'PORT': os.environ['COMPONENTS_DB_PORT']\n    }",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': os.environ['COMPONENTS_DB_NAME'],\n        'USER': os.environ['COMPONENTS_DB_USER'],\n        'PASSWORD': os.environ['COMPONENTS_DB_PASS'],\n        'HOST': os.environ['COMPONENTS_DB_SERVICE'],\n        'PORT': os.environ['COMPONENTS_DB_PORT']\n    }\n}",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "services.components.settings.environment.base",
+        "description": "services.components.settings.environment.base",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'static', os.getenv('SERVICE_NAME'))",
+        "detail": "services.components.settings.environment.base",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "services.components.settings.urls",
+        "description": "services.components.settings.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include('apps.routes.urls')),\n    path('', include('apps.components.urls')),\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path('docs/', include_docs_urls(title='COMPONENTS API')),\n    path('schema/', get_schema_view(title='COMPONENTS API'))\n]",
+        "detail": "services.components.settings.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "services.components.settings.wsgi",
+        "description": "services.components.settings.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "services.components.settings.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthorizedService",
+        "kind": 6,
+        "importPath": "shared.django.authentication.permissions",
+        "description": "shared.django.authentication.permissions",
+        "peekOfCode": "class IsAuthorizedService:\n    def has_permission(self, request, view):\n        required_permission = get_service_name()\n        if request.auth.get('service_permissions', False) and get_service_name() in request.auth['service_permissions']:\n            return True\n        logger.error('Permission {} not provided'.format(required_permission))\n        return False\n    def has_object_permission(self, request, view, obj):\n        required_permission = get_service_permission(obj, request.method)\n        if request.auth and 'service_permissions' in request.auth and required_permission in request.auth[",
+        "detail": "shared.django.authentication.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthorizedUser",
+        "kind": 6,
+        "importPath": "shared.django.authentication.permissions",
+        "description": "shared.django.authentication.permissions",
+        "peekOfCode": "class IsAuthorizedUser:\n    def has_permission(self, request, view):\n        return True\n    def has_object_permission(self, request, view, obj):\n        return True",
+        "detail": "shared.django.authentication.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "shared.django.authentication.permissions",
+        "description": "shared.django.authentication.permissions",
+        "peekOfCode": "logger = getLogger(__name__)\nclass IsAuthorizedService:\n    def has_permission(self, request, view):\n        required_permission = get_service_name()\n        if request.auth.get('service_permissions', False) and get_service_name() in request.auth['service_permissions']:\n            return True\n        logger.error('Permission {} not provided'.format(required_permission))\n        return False\n    def has_object_permission(self, request, view, obj):\n        required_permission = get_service_permission(obj, request.method)",
+        "detail": "shared.django.authentication.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampField",
+        "kind": 6,
+        "importPath": "shared.django.authentication.serializers",
+        "description": "shared.django.authentication.serializers",
+        "peekOfCode": "class TimestampField(Field):\n    def to_native(self, value):\n        epoch = datetime(1970, 1, 1)\n        return int((value - epoch).total_seconds())\n    def to_internal_value(self, data):\n        return data\nclass AbstractJwtSerializer(Serializer):\n    exp = SerializerMethodField()\n    is_user = SerializerMethodField()\n    is_service = SerializerMethodField()",
+        "detail": "shared.django.authentication.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractJwtSerializer",
+        "kind": 6,
+        "importPath": "shared.django.authentication.serializers",
+        "description": "shared.django.authentication.serializers",
+        "peekOfCode": "class AbstractJwtSerializer(Serializer):\n    exp = SerializerMethodField()\n    is_user = SerializerMethodField()\n    is_service = SerializerMethodField()\n    def get_exp(self, obj):\n        from rest_framework_jwt.settings import api_settings\n        if 'exp' in obj:\n            return obj['exp']\n        return datetime.utcnow() + api_settings.JWT_EXPIRATION_DELTA\n    def get_is_user(self, obj):",
+        "detail": "shared.django.authentication.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserJwtSerializer",
+        "kind": 6,
+        "importPath": "shared.django.authentication.serializers",
+        "description": "shared.django.authentication.serializers",
+        "peekOfCode": "class UserJwtSerializer(AbstractJwtSerializer):\n    user_uuid = UUIDField(source='user_id')\n    identity_token = CharField(max_length=40)\n    elevated_token = CharField(max_length=40)\n    user_permissions = ListField(child=CharField(max_length=120))\n    service_permissions = ListField(child=CharField(max_length=120))\n    is_loggedin = SerializerMethodField()\n    def get_is_user(self, obj):\n        return True\n    @staticmethod",
+        "detail": "shared.django.authentication.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CreateServiceJwtSerializer",
+        "kind": 6,
+        "importPath": "shared.django.authentication.serializers",
+        "description": "shared.django.authentication.serializers",
+        "peekOfCode": "class CreateServiceJwtSerializer(AbstractJwtSerializer):\n    service_name = SerializerMethodField()\n    service_permissions = SerializerMethodField()\n    def get_is_service(self, obj):\n        return True\n    def get_service_name(self, obj):\n        if not os.environ.get('SERVICE_NAME'):\n            raise ValidationError('Unknown service name!')\n        return os.environ.get('SERVICE_NAME')\n    def get_service_permissions(self, obj):",
+        "detail": "shared.django.authentication.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ValidateServiceJwtSerializer",
+        "kind": 6,
+        "importPath": "shared.django.authentication.serializers",
+        "description": "shared.django.authentication.serializers",
+        "peekOfCode": "class ValidateServiceJwtSerializer(AbstractJwtSerializer):\n    exp = TimestampField(required=True)\n    service_name = CharField(max_length=120, required=True)\n    service_permissions = ListField(required=True)\n    is_service = BooleanField(required=True)",
+        "detail": "shared.django.authentication.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "shared.django.authentication.settings",
+        "description": "shared.django.authentication.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': (\n        'lib.authentication.permissions.IsAuthorizedService',\n        'lib.authentication.permissions.IsAuthorizedUser',\n    ),\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'lib.authentication.utils.StrictJWTAuthentication',\n    )\n}\nJWT_AUTH = {",
+        "detail": "shared.django.authentication.settings",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_AUTH",
+        "kind": 5,
+        "importPath": "shared.django.authentication.settings",
+        "description": "shared.django.authentication.settings",
+        "peekOfCode": "JWT_AUTH = {\n    'JWT_ENCODE_HANDLER':\n        'rest_framework_jwt.utils.jwt_encode_handler',\n    'JWT_DECODE_HANDLER':\n        'rest_framework_jwt.utils.jwt_decode_handler',\n    'JWT_PAYLOAD_HANDLER':\n        'rest_framework_jwt.utils.jwt_payload_handler',\n    'JWT_PAYLOAD_GET_USER_ID_HANDLER':\n        'rest_framework_jwt.utils.jwt_get_user_id_from_payload_handler',\n    'JWT_RESPONSE_PAYLOAD_HANDLER':",
+        "detail": "shared.django.authentication.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationTest",
+        "kind": 6,
+        "importPath": "shared.django.authentication.test",
+        "description": "shared.django.authentication.test",
+        "peekOfCode": "class AuthenticationTest(TestCase):\n    def test_create_service_jwt(self):\n        jwt = jwt_encode_handler(create_service_jwt_payload())\n        assert jwt\n        payload = jwt_decode_handler(jwt)\n        assert payload\n        assert 'exp' in payload\n    def test_create_service_jwt_fails_with_unknown_service_name(self):\n        with patch.dict('os.environ', {'SERVICE_NAME': ''}):\n            with self.assertRaises(ValidationError):",
+        "detail": "shared.django.authentication.test",
+        "documentation": {}
+    },
+    {
+        "label": "StrictJWTAuthentication",
+        "kind": 6,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "class StrictJWTAuthentication(JSONWebTokenAuthentication):\n    def authenticate(self, request):\n        jwt_value = self.get_jwt_value(request)\n        if not jwt_value:\n            raise AuthenticationFailed('No token!')\n        try:\n            payload = validate_service_jwt(jwt_value)\n        except jwt.ExpiredSignature:\n            raise AuthenticationFailed('Signature has expired.')\n        except jwt.DecodeError:",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_service_jwt_payload",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def create_service_jwt_payload():\n    from rest_framework_jwt.settings import api_settings\n    payload = {}\n    if api_settings.JWT_ALLOW_REFRESH:\n        payload['orig_iat'] = timegm(\n            datetime.utcnow().utctimetuple()\n        )\n    if api_settings.JWT_AUDIENCE is not None:\n        payload['aud'] = api_settings.JWT_AUDIENCE\n    if api_settings.JWT_ISSUER is not None:",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_service_jwt",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def create_service_jwt():\n    return jwt_encode_handler(create_service_jwt_payload())\ndef validate_service_jwt(jwt):\n    payload = jwt_decode_handler(jwt)\n    serializer = ValidateServiceJwtSerializer(data=payload)\n    serializer.is_valid(raise_exception=True)\n    return payload\ndef get_service_name():\n    if not os.environ.get('SERVICE_NAME'):\n        raise ValidationError('Unknown service name!')",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_service_jwt",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def validate_service_jwt(jwt):\n    payload = jwt_decode_handler(jwt)\n    serializer = ValidateServiceJwtSerializer(data=payload)\n    serializer.is_valid(raise_exception=True)\n    return payload\ndef get_service_name():\n    if not os.environ.get('SERVICE_NAME'):\n        raise ValidationError('Unknown service name!')\n    return os.environ.get('SERVICE_NAME')\ndef get_service_permission(model=None, method=None):",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_name",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def get_service_name():\n    if not os.environ.get('SERVICE_NAME'):\n        raise ValidationError('Unknown service name!')\n    return os.environ.get('SERVICE_NAME')\ndef get_service_permission(model=None, method=None):\n    permission = [get_service_name(), model.__class__.__name__ if isinstance(model, Model) else None, method]\n    return ':'.join([part for part in permission if part is not None])\ndef get_current_service_permissions():\n    return list(map(lambda permission: permission.strip(' \\t\\n\\r'), os.environ.get('SERVICE_PERMISSIONS').split(',')))",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_permission",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def get_service_permission(model=None, method=None):\n    permission = [get_service_name(), model.__class__.__name__ if isinstance(model, Model) else None, method]\n    return ':'.join([part for part in permission if part is not None])\ndef get_current_service_permissions():\n    return list(map(lambda permission: permission.strip(' \\t\\n\\r'), os.environ.get('SERVICE_PERMISSIONS').split(',')))",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_service_permissions",
+        "kind": 2,
+        "importPath": "shared.django.authentication.utils",
+        "description": "shared.django.authentication.utils",
+        "peekOfCode": "def get_current_service_permissions():\n    return list(map(lambda permission: permission.strip(' \\t\\n\\r'), os.environ.get('SERVICE_PERMISSIONS').split(',')))",
+        "detail": "shared.django.authentication.utils",
+        "documentation": {}
+    }
+]
